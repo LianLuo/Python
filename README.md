@@ -1,1 +1,2 @@
-Learn Python
+## Learn Python
+> Record all code during learn python.
